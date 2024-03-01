@@ -1,0 +1,82 @@
+a{
+    text-decoration: none;
+    color: blue;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.HOME{
+    text-decoration:none;
+    font-size: 25px;
+    color: blue;
+    font-family: sans-serif;
+}
+.Get{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    font-family: sans-serif;
+    font-weight: 1px;
+}
+.system{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 19px;
+    color: rgb(53, 53, 255);
+    line-height: 20px;
+}
+*{
+    font-family: sans-serif;
+    line-height: 25px;
+}
+ol{
+    font-size: 19px;
+}
+.php{
+    background-color: rgb(212, 206, 206);
+    padding: 20px;
+    font-family: cursive;
+    width: 950px;
+}
+caption{
+    font-size: 15px;
+}
+#Suppose{
+    font-size: 16px;
+}
+.NoteB{
+    background-color: rgb(176, 176, 255);
+    padding: 8px;
+    width: 900px;
+    height: 170px;
+    position: relative;left: 12px;
+    border-radius: 5px;
+    text-align: justify;
+    
+}
+#logo{
+    font-size: 25px;
+}
+#slash{
+    font-size: 30px;
+}
+#list{
+    line-height: 30px;
+}
+#intro{
+    font-weight: lighter;
+}
+.NoteA{
+    background-color: rgb(176, 176, 255);
+    padding: 5px;
+    border-radius: 5px;
+    width: 900px;
+    position: relative;left: 12px;
+}
+.Basic{
+    text-align: center;
+    line-height: 50px;
+}
+.content{
+    text-align: center;
+    color: gray;
+}
